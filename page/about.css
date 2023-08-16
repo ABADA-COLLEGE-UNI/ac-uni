@@ -161,16 +161,16 @@ div
 .bg-tab {
   position: relative;
   padding-top: 30px;
-  margin-top: 25px;
+  margin: 25px 260px;
   height: 550px;
   background-color: aliceblue;
-  width: 1000px;
   margin-left: 259px;
 }
 
 .tabs {
   display: flex;
   flex-wrap: wrap;
+  margin: 0 200px;
   width: 1000px;
   font-family: 'Crimson Text', serif;
 
