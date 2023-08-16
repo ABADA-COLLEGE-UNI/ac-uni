@@ -149,7 +149,8 @@ div
 .mean5 {
   font-family: 'Crimson Text', serif;
   font-size: 20px;
-  margin: 0 300px;
+  margin: 0 260px;
+  width: 700px;
   font-style: italic;
   color: rgb(14, 18, 14);
   padding: 40px 0 10px 0;
